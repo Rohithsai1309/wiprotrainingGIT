@@ -1,0 +1,5 @@
+this is created to merge 2 branches in local repository and push it into git repo using main branch after merging
+git merge <branchname> is the syntax i used
+vi <filenam.txt>
+i to tssrat writing into the file
+press escape and :wq to save and close the file
